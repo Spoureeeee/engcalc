@@ -4,8 +4,7 @@ A frontend-only web toolkit of interactive engineering calculators, built from r
 
 **Built by spouree** for the Frontend Web Development Hackathon 2026.
 
-**Live demo:** [_add your deployed link here (GitHub Pages / Netlify / Vercel)
-](https://spoureeeee.github.io/engcalc/)
+**Live demo:** (https://spoureeeee.github.io/engcalc/)
 <!--
   TODO before submission: replace the three placeholders below with real
   screenshots (or swap this section for one GIF of the Field Visualizer in
