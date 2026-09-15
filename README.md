@@ -85,7 +85,7 @@ No build step — deploys anywhere that serves static files.
 
 - [x] Export graph as PNG
 - [x] More BJT topologies (Common-Collector, Common-Base)
-- [ ] Unit toggle for RLC (Hz/kHz, mH/µH)
+- [x] Unit toggle for RLC (Hz/kHz, mH/µH)
 
 ## Built for
 
